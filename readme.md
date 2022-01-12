@@ -1,9 +1,10 @@
 **Golang cs上线免杀工具**
-by:linshao
+#by:linshao
 
-通过简单的免杀来学习Go，源码注释比较多，方便阅读
-time: 2022-1-12日
+time: 2022-1-12
+>golang写的简单免杀，2022年1月12日可过360，火绒，安全狗等常见杀软，
 
+>代码附较多注释方便阅读通过简单的免杀来学习Go
 ```
 需要环境:windows/ golang
 下载地址https://golang.google.cn/dl/go1.17.6.windows-amd64.msi
