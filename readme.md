@@ -1,5 +1,7 @@
-***linshao*  Golang shellcode免杀工具**
+**Golang cs上线免杀工具**
+by:linshao
 
+通过简单的免杀来学习Go，源码注释比较多，方便阅读
 time: 2022-1-12日
 
 ```
@@ -20,15 +22,17 @@ time: 2022-1-12日
 
 > 报错解决方案
 >
-> `go env -w GO111MODULE=auto`
+> go env -w GO111MODULE=auto
 >
-> ![image-20220112200728514](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220112200728514.png)
+>![image](https://user-images.githubusercontent.com/96420060/149149788-df868afc-0519-42de-9752-f4fde458cfa1.png)
 >
 > 
 >
 > 使用上的疑问或有其他好的建议请指教:
 >
 > 技术之路，希望能与努力的你相遇。。。
+>
+>正在寻求爱交流分享的小伙伴，我们的小圈子期待你的加入：
 >
 > 微信公众号:
 >
